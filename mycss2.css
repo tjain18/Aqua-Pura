@@ -257,7 +257,7 @@ sup{
 .accessories button{
     width: 70px;
     height: 70px;
-    background-color: blue;
+    background-color: rgb(115, 198, 226);
     color: white;
     border: none;
     border-radius:10px ;
@@ -265,7 +265,7 @@ sup{
 }
 .accessories .acc_container .line1{
     font-size: 15px;
-    color: red;
+    color:blue;
     margin: 0;
 }
 .accessories .acc_container .line2{
@@ -289,13 +289,19 @@ hr{
     margin: 10px;
     padding: 8px;
     outline: none;
-    border: black solid 1px;
+    border: rgb(115, 198, 226)  solid 1px;
+    border-left: rgb(115, 198, 226) 5px solid;
+    border-right: rgb(115, 198, 226) 5px solid;
+    border-radius: 15px;
 }
 .feed .feed_form textarea{
     height: 120px;
     width: 30%;
     outline: none;
-    border: black solid 1px;
+    border: rgb(115, 198, 226)  solid 1px;
+    border-left: rgb(115, 198, 226) 5px solid;
+    border-right: rgb(115, 198, 226) 5px solid;
+    border-radius: 15px;
 }
 .feed .feed_form form button{
     background-color: rgb(3, 3, 92);
@@ -524,11 +530,18 @@ background-color: #Ecf3f9;
 .enquire_us form input,textarea,select{
     width: 40%;
     margin: 10px;
-    border:black solid 1px;
+    border: rgb(115, 198, 226)  solid 1px;
+    border-left: rgb(115, 198, 226) 5px solid;
+    border-right: rgb(115, 198, 226) 5px solid;
+    border-radius: 15px;
     padding: 8px;
 }
 .enquire_us form textarea{
     height: 120px;
+    border: rgb(115, 198, 226)  solid 1px;
+    border-left: rgb(115, 198, 226) 5px solid;
+    border-right: rgb(115, 198, 226) 5px solid;
+    border-radius: 15px;
 }
 .enquire_us form button{
     background-color: rgb(3, 3, 92);
