@@ -211,7 +211,7 @@ flex-wrap: wrap;
     text-align: center;
 }
 .tests .carousel-item{
-    height: 50vh;
+    height: 300px;
 }
 sup{
     font-size: 10px;
